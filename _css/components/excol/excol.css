@@ -37,7 +37,6 @@ summary {
   & > *:first-child::before {
     content: '';
     margin-inline-end: 0.5rem;
-    padding-block-start: 0.15rem;
     width: 1.5rem;
     height: 1.5rem;
     background-color: var(--w3c-color-excol-idle);
