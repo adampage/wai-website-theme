@@ -48,6 +48,7 @@ summary {
   &:--hovcus > *:first-child::before {
     background-color: var(--w3c-color-excol-hovcus);
     mask-image: var(--w3c-icon-plus-solid);
+    content: var(--w3c-icon-plus-hollow-symbol-only);
   }
 }
 
