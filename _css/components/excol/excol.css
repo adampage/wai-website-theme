@@ -32,6 +32,7 @@ summary {
   & > *:first-child {
     display: flex;
     flex-wrap: wrap;
+    padding-top: 0.15rem;
   }
 
   & > *:first-child::before {
