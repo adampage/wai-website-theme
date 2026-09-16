@@ -44,6 +44,7 @@ summary {
     text-align: center;
     font-weight: bold;
     mask: var(--w3c-icon-plus-hollow) center / contain no-repeat;
+    margin-top: -0.15rem;
   }
 
   &:--hovcus > *:first-child::before {
