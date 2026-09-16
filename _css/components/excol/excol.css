@@ -67,7 +67,7 @@ details[open] > summary {
 
   &:--hovcus > *:first-child::before {
     mask-image: var(--w3c-icon-minus-solid);
-    content: var(--w3c-icon-icon-hollow-symbol-only);
+    content: var(--w3c-icon-minus-hollow-symbol-only);
   }
 }
 
