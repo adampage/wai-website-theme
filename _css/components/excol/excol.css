@@ -24,6 +24,7 @@ summary {
 }
 
 summary .excol-inline-icon {
+  flex: none;
   color: var(--w3c-color-excol-idle);
 }
 
